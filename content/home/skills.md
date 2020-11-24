@@ -36,13 +36,7 @@ subtitle = ""
   icon = "music"
   icon_pack = "fab"
   name = "Music"
-  description = "90%"
-  
-[[feature]]
-  icon = "guitar"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "85%"  
+  description = "90%" 
   
 [[feature]]
   icon = "camera-retro"
