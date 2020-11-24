@@ -21,22 +21,10 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "robot"
-  icon_pack = "fab"
-  name = "Engineering and Research"
-  description = "40%"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Analysis"
   description = "70%"
-  
-[[feature]]
-  icon = "fa-music"
-  icon_pack = "fas"
-  name = "Music"
-  description = "90%" 
   
 [[feature]]
   icon = "camera-retro"
