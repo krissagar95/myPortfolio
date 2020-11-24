@@ -27,10 +27,16 @@ subtitle = ""
   description = "70%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "music"
   icon_pack = "fas"
-  name = "Photography"
-  description = "95%"
+  name = "Music"
+  description = "70%"
+  
+# [[feature]]
+#   icon = "camera-retro"
+#   icon_pack = "fas"
+#   name = "Photography"
+#   description = "95%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
