@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Research Engineer"
+  company = "INFINITUS @NTU"
+  company_url = "https://www.ntu.edu.sg/Pages/home.aspx"
+  location = "Singapore"
+  date_start = "2019-16-12"
+  date_end = "2020-30-06"
   description = """
+  Automated Charging for Kerbside Parking to Reduce Active Enforcement
   Responsibilities include:
   
-  * Analysing
-  * Modelling
+  * Data Collection
+  * Embedded Software Development
   * Deploying
+  * Network Arrchitechture Development 
+  * Experiment Staging
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Engineer"
+  company = "DELTA-NTU Corporate Lab for Cyber-Physical Systems"
+  company_url = "http://www.eee.ntu.edu.sg/Research/delta-ntu-cpsl/Pages/Home.aspx"
+  location = "Singapore"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """
+  Multilevel Insustrial Automation Solution for factory base operation at DELTA Electronics
+  * Industrial Internet of Things
+  * Cloud Data/Signal Retrieval and Transmission 
+  * Heuristic Simulation Development
+  * Optimization 
+  * Software Packaging and Deployment
+  * Back-end Software Development
+  """
 
 +++
