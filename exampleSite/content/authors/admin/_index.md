@@ -77,4 +77,4 @@ Research Engineer at DELTA Corp Lab @NTU. I have a Master's of Science Degree in
 
 An engineer by day and a part-time musician by night. I love to compose and produce music. I have performed in several open mics, and gigs, and at international events like TEDxNTU. My focus is on blending Indian Classical Music with Western Pop. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sagar_CV_(24.11.2020).pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
