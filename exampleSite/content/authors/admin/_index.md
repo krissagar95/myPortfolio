@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "krishna.sagar@ntu.edu.sg".
+  link: 'krishna.sagar@ntu.edu.sg'  # For a direct email link, use "krishna.sagar@ntu.edu.sg".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sagar954
