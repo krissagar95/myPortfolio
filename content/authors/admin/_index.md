@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: files/Sagar CV(24-11-2020).pdf
+   link: files/Sagar_CV(24.11.2020).pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "krishna.sagar@ntu.edu.sg"
