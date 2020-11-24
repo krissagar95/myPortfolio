@@ -33,7 +33,7 @@ subtitle = ""
   description = "70%"
   
 [[feature]]
-  icon = "music"
+  icon = "fa-music"
   icon_pack = "fas"
   name = "Music"
   description = "90%" 
