@@ -35,7 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "music"
   icon_pack = "fab"
-  name = "Python"
+  name = "Music"
   description = "90%"
   
 [[feature]]
