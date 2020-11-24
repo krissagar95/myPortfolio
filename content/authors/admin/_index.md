@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a MSc garduate from NTU(Computer Control and Automation) who has interned at the process control sector of Bharat Petroleum Corporate Limited, Kochi and is currently a Research Engineer at Delta Corporate Lab @NTU working on IIOT backend development in using NodeRed. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Research Engineer at DELTA Corp Lab @NTU. I have a Master's of Science Degree in Computer Control and Automation from Nanyang Technological University, Singapore with a thesis on Data-Driven Extraction of Challenging Situations for Autonomous vehicles. Experienced in Python, MATLAB, Github, C++, and JavaScript. Work and Research interests include Machine Learning, Data Analysis, Industrial IOT, Robotics and Sensors, and Control and Optimization.
