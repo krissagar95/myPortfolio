@@ -71,4 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Research Engineer at DELTA Corp Lab @NTU. I have a Master's of Science Degree in Computer Control and Automation from Nanyang Technological University, Singapore with a thesis on Data-Driven Extraction of Challenging Situations for Autonomous vehicles. Experienced in Python, MATLAB, Github, C++, and JavaScript. Work and Research interests include Machine Learning, Data Analysis, Industrial IOT, Robotics and Sensors, and Control and Optimization.
+Research Engineer at DELTA Corp Lab @NTU. I have a Master's of Science Degree in Computer Control and Automation from Nanyang Technological University, Singapore with a thesis on Data-Driven Extraction of Challenging Situations for Autonomous vehicles. Experienced in Python, MATLAB, Github, C++, and JavaScript. Work and Research interests include Machine Learning, Data Analysis, Industrial IOT, Robotics and Sensors, and Control and Optimization. 
+
+An engineer by day and a part-time musician by night. I love to compose and produce music. I have performed in several open mics, and gigs, and at international events like TEDxNTU. My focus is on blending Indian Classical Music with Western Pop. 
