@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sagar Krishna
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Engineer at DELTA Corporate Lab @NTU
 
 # Organizations/Affiliations to show in About widget
 organizations:
