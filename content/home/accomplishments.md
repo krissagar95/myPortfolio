@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Multi-cultural Music Mashup"
   url = ""
   certificate_url = "static/img/tesla.png"
-  date_start = "2018-10-01"
+  date_start = "2020-10-23"
   date_end = ""
   description = ""
 
