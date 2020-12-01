@@ -16,7 +16,7 @@ image_preview = "tesla.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["sensors"]
+tags = ["UG"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
