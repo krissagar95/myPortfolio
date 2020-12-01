@@ -9,10 +9,10 @@ title = "Smart 101"
 summary = "A product that alerts the owner and the nearest fire-station if fire breaks out and also cuts home electricity"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "media/tesla.jpg"
+# image_preview = "media/tesla.jpg"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
-# image = "tesla.png"
+image = "media/tesla.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
