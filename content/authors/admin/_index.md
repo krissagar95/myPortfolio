@@ -21,8 +21,8 @@ interests:
 - Machine Learning, Signal Processing
 - Control and Automation
 - Audio Signal Processing
-- Smart Urban Transportation
-- Photography
+- Music Jamming
+- Travelling & Photography
 - Gadgets
 
 education:
