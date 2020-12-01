@@ -17,10 +17,13 @@ organizations:
 bio: My research interests include robotics, machine learning, control and automation.
 
 interests:
-- Industrial Automation 
+- Music Technology 
 - Machine Learning, Signal Processing
 - Control and Automation
-- Smart Urban Transportation 
+- Audio Signal Processing
+- Smart Urban Transportation
+- Photography
+- Gadgets
 
 education:
   courses:
