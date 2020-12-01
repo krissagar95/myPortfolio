@@ -16,7 +16,7 @@ summary = "Using vehicle sensor data to predict the behaviour of vehicles when t
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ML"]
+tags = ["Masters"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
