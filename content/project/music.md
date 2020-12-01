@@ -9,10 +9,10 @@ title = "Data Driven Extraction for Challenging Situations for Autonomous Vehicl
 summary = "Using vehicle sensor data to predict the behaviour of vehicles when they face challenging situations to train autonomous vehicles and to set standards to deploy them in future."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image = "static/img/tesla.jpg"
+# image = "static/img/tesla.jpg"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
-# image = "tesla.jpg"
+image = "tesla.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -25,4 +25,6 @@ tags = ["Music"]
 # math = false
 
 +++
-When learning any form of classical music vocals without a teacher, even subtle deviations can lead to wrong training, which can be diﬃcult to remedy in the future. In this research work, a real-time tool has been developed to deal with this situation by assisting people in learning Indian classical music. This tool will have a set of pre-deﬁned Swaras, Alankaras, and Ragas (Indian classical music concepts). Users can practice any musical piece from this set and the tool will inform them of the mistakes they make, by smartly matching their voice with the dynamically deﬁned pattern. Users are free to sing in any given scale, which they deﬁne in the beginning by singing the root note of their preferred scale.
+Autonomous vehicles or Self-Driven Vehicles (SDVs) are becoming increasingly common in Singapore and for a wide variety of applications – from first-and-last-mile commutes to logistics. The areas of deployment are similarly diverse, ranging from docks to housing estates and highways. This variance in operating environments necessitates careful validation and analysis of SDVs in contextual situations before deployment.
+To support the Land Transport Authority's (LTA) development of test requirements and standards to deploy AVs in Singapore, NTU led the Centre of Excellence for Testing & Research of AVs – NTU (CETRAN). While CETRAN does not directly develop new technologies for AVs, it generates fundamental research on how these systems should operate, develop testing requirements, and establish an international standard for AVs. 
+CETRAN houses an expert research team formed by NTU that performs testing in a computer-simulated environment representative of Singapore's traffic conditions, to complement the tests being performed in the test circuit. In order to create realistic tests which correspond as closely as possible with traffic situations occurring on Singapore roads, 15000 km of driving data has been collected and analyzed over a course of 2 years (including video and vehicle dynamics), and 20000 labelled situations have been identified in conjunction with CETRAN.
