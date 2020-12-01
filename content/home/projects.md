@@ -27,11 +27,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Music"
-    tag = ".music"
+    tag = "music"
 
   [[content.filter_button]]
     name = "Wayfinding"
-    tag = ".wayfinding"
+    tag = "wayfinding"
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
