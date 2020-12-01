@@ -3,16 +3,16 @@
 # date = "2016-04-27"
 
 # Project title.
-title = "Indian Classical Vocal Training Tool"
+title = "Data Driven Extraction for Challenging Situations for Autonomous Vehicles"
 
 # Project summary to display on homepage.
-summary = "A vocal-tutor to teach Indian Classical Music"
+summary = "Using vehicle sensor data to predict the behaviour of vehicles when they face challenging situations to train autonomous vehicles and to set standards to deploy them in future."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-# image = ""
+image = "tesla.jpg"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
-# image = ""
+image = "tesla.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
