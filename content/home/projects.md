@@ -21,18 +21,18 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-[[content.filter_button]]
-  name = "All"
-  tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
-[[content.filter_button]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
-  
-[[content.filter_button]]
-  name = "Other"
-  tag = "Demo"
+  [[content.filter_button]]
+    name = "Music"
+    tag = ".music"
 
+  [[content.filter_button]]
+    name = "Wayfinding"
+    tag = ".wayfinding"
+  
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
@@ -42,10 +42,10 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
+  flip_alt_rows = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -74,4 +74,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
