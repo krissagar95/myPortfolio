@@ -9,7 +9,7 @@ title = "Smart 101"
 summary = "A product that alerts the owner and the nearest fire-station if fire breaks out and also cuts home electricity"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "media/tesla.png"
+image_preview = "media/tesla.jpg"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
 # image = "tesla.png"
