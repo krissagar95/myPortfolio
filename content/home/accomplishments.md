@@ -19,10 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Curator-Performer"
+  organization = "TEDxNTU"
   organization_url = "https://www.ted.com/tedx/events/39230"
   title = "Multi-cultural Music Mashup"
-  url = ""
+  url = "static/img/tesla.jpg"
   certificate_url = "static/img/tesla.jpg"
   date_start = "2020-10-23"
   date_end = ""
