@@ -22,30 +22,20 @@ date_format = "Jan 2006"
   organization = "TEDxNTU"
   organization_url = "https://www.ted.com/tedx/events/39230"
   title = "Multi-cultural Music Mashup"
-  url = 'media/Sagar_CV(24.11.2020).pdf'
-  certificate_url = 'media/Sagar_CV(24.11.2020).pdf'
+  url = ""
+  certificate_url = ""
   date_start = "2020-10-23"
   date_end = ""
-  description = ""
+  description = "Formulated and composed the performance for TEDxNTU 2020 combining several languges and genres of music."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Bharath Petroleum Corporate Limited"
+  organization_url = "https://www.bharatpetroleum.com/our-businesses/refineries/kochi-refinery.aspx"
+  title = "In-Plant Trining"
+  url = "https://www.bharatpetroleum.com/our-businesses/refineries/kochi-refinery.aspx"
+  certificate_url = "https://www.bharatpetroleum.com/our-businesses/refineries/kochi-refinery.aspx"
+  date_start = "2016-05-05"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Underwent in-plant training at the Distillation Chamber wing of the refinery. Was introduced to distributed control system and the valves and equipment used in the petrochemical extraction process."
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
 +++
