@@ -9,7 +9,7 @@ title = "Data Driven Extraction for Challenging Situations for Autonomous Vehicl
 summary = "Using vehicle sensor data to predict the behaviour of vehicles when they face challenging situations to train autonomous vehicles and to set standards to deploy them in future."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "tesla.png"
+# image_preview = "tesla.png"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
 # image = "tesla.jpg"
