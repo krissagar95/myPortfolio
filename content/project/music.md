@@ -12,7 +12,7 @@ summary = "Using vehicle sensor data to predict the behaviour of vehicles when t
 # image = "static/img/tesla.jpg"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
-image = "tesla.jpg"
+# image = "tesla.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
