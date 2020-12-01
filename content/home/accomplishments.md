@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Curator-Performer"
+  organization_url = "https://www.ted.com/tedx/events/39230"
+  title = "Multi-cultural Music Mashup"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = "static/img/tesla.png"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
