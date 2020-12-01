@@ -12,7 +12,7 @@ summary = "A product that alerts the owner and the nearest fire-station if fire 
 # image_preview = "media/tesla.jpg"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
-image = "tesla.jpg"
+# image = "tesla.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
